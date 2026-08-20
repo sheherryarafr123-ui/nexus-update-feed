@@ -1,4 +1,22 @@
 {
+  "product": "NEXUS_SERVER",
   "channel": "TEST",
-  "status": "awaiting-release"
+  "build": "20260820-002",
+  "commit": "d045338f8a8d78d86fc7b12aa8c5f8ef8d22e9b6",
+  "schema": "46",
+  "migration": "46.0",
+  "release_date": "2026-08-20",
+  "release_notes": "Provider-neutral online update acceptance release with rollback quarantine and operator evidence.",
+  "artifact_filename": "NEXUS_Server_TEST_20260820-002.zip",
+  "artifact_url": "https://raw.githubusercontent.com/sheherryarafr123-ui/nexus-update-feed/main/test/20260820-002/NEXUS_Server_TEST_20260820-002.zip",
+  "artifact_size": 15899172,
+  "artifact_sha256": "70F2FBC47E595E16040EA070029F3E60340E1039A3D52CF7E8F0EB89096152D9",
+  "minimum_supported_build": "20260813-003",
+  "minimum_supported_schema": "46",
+  "maximum_supported_schema": "46",
+  "requires_restart": true,
+  "requires_migration": false,
+  "signature_algorithm": "Ed25519",
+  "key_id": "nexus-test-2026-01",
+  "signature": "42LamdlFpuC9PuIir9/VHlSb8BFkEgvU+lIq5dA3Oc0j2ODhEs9k0PyT7XGVYA/GUacp7QwmdYbP/c9n6+DdDg=="
 }
