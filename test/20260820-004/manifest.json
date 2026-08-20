@@ -1,0 +1,36 @@
+{
+  "product": "NEXUS_SERVER",
+  "channel": "TEST",
+  "build": "20260820-004",
+  "commit": "1cddfda03eaac2580cd9bbf8a0c9b3d67dc3c417",
+  "schema": "46",
+  "migration": "46.0",
+  "release_date": "2026-08-20",
+  "release_notes": "Add governed local database backup restore with verified safety backup and automatic recovery.",
+  "artifact_filename": "NEXUS_Server_TEST_20260820-004.zip",
+  "artifact_url": "https://raw.githubusercontent.com/sheherryarafr123-ui/nexus-update-feed/main/test/20260820-004/NEXUS_Server_TEST_20260820-004.zip",
+  "artifact_size": 40115186,
+  "artifact_sha256": "8BB9C4BBB692C51AB59C974E61CC716A7FCEF937E6CA8E20B26CAB1994E0AFEB",
+  "minimum_supported_build": "20260820-002",
+  "minimum_supported_schema": "46",
+  "maximum_supported_schema": "46",
+  "requires_restart": true,
+  "requires_migration": false,
+  "signature_algorithm": "Ed25519",
+  "key_id": "nexus-test-2026-01",
+  "component_files": [
+    {
+      "source": "NexusServerManager.exe",
+      "target": "NexusServerManager.exe",
+      "size": 12358851,
+      "sha256": "27B4C8BDBF956FBAA11FE5BB719C897A4BA620A039E12435B6CA1235320498AF"
+    },
+    {
+      "source": "NexusRestore.exe",
+      "target": "NexusRestore.exe",
+      "size": 12318040,
+      "sha256": "D180F1D1CAAA927A74CEDB3862B507BFF204BB98D1D1F2D7DCA15B51E323E3F0"
+    }
+  ],
+  "signature": "KuuPWovH6AHPz9jap1WBNZVJNtjcr8IN/hVJEYKRrH/NBM+fkUM0PPPnEGZMUAFWd+ChxcB5FDRFeiQtfd70AA=="
+}
