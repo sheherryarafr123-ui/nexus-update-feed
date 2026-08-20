@@ -1,0 +1,23 @@
+{
+  "product": "NEXUS_SERVER",
+  "channel": "TEST",
+  "build": "20260820-003",
+  "commit": "d045338f8a8d78d86fc7b12aa8c5f8ef8d22e9b6",
+  "schema": "46",
+  "migration": "46.0",
+  "release_date": "2026-08-20",
+  "release_notes": "Controlled signed TEST release for automatic health-gate rollback acceptance.",
+  "artifact_filename": "NEXUS_Server_TEST_20260820-003.zip",
+  "artifact_url": "https://raw.githubusercontent.com/sheherryarafr123-ui/nexus-update-feed/main/test/20260820-003/NEXUS_Server_TEST_20260820-003.zip",
+  "artifact_size": 7903331,
+  "artifact_sha256": "26B073F5815939EF101B81216E6889C83BEB12A3E33E3D125754C4E82BAB4036",
+  "minimum_supported_build": "20260820-002",
+  "minimum_supported_schema": "46",
+  "maximum_supported_schema": "46",
+  "requires_restart": true,
+  "requires_migration": false,
+  "signature_algorithm": "Ed25519",
+  "key_id": "nexus-test-2026-01",
+  "controlled_test_failure": true,
+  "signature": "stAEDCxRoU6yQXTFxT7cN2G0T0SQdHBePjnwArgloI+7RzC3DD+zWYPevBKEVtd2bujEeVaKtSHCDIkL90uBAA=="
+}
