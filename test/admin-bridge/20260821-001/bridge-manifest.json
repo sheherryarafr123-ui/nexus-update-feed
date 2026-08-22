@@ -1,0 +1,49 @@
+{
+  "product": "NEXUS_ADMIN_BRIDGE_PAYLOAD",
+  "environment": "TEST",
+  "bridge_protocol": "20260821-001",
+  "admin_protocol_version": 2,
+  "source_commit": "b143c8409aca79d41f413caaf431bcd7d3d14fa4",
+  "eligible_source_build": "20260820-002",
+  "eligible_schema": "46",
+  "artifact_filename": "NEXUS_Admin_Bridge_Payload_20260821-001.zip",
+  "artifact_url": "https://raw.githubusercontent.com/sheherryarafr123-ui/nexus-update-feed/main/test/admin-bridge/20260821-001/NEXUS_Admin_Bridge_Payload_20260821-001.zip",
+  "artifact_size": 51604284,
+  "artifact_sha256": "68FD7887528E9328C78184CEB942008C078A1B72CC0633BB30965A3579838D53",
+  "component_files": [
+    {
+      "source": "NexusServerManager.exe",
+      "target": "NexusServerManager.exe",
+      "size": 12377005,
+      "sha256": "0BDE2D103802D78D172A113845AD507CA8F3F9409578F32F49A1E093F4EBC399"
+    },
+    {
+      "source": "NexusRestore.exe",
+      "target": "NexusRestore.exe",
+      "size": 12334624,
+      "sha256": "627A6E357A8EEE089A62103E130DA81DFBA410FFC970AF248757401D411BCFC6"
+    },
+    {
+      "source": "NexusUpdater.exe",
+      "target": "updater/NexusUpdater.exe",
+      "size": 9366593,
+      "sha256": "ACAC35042028C545BD8E33C213769D689CC5BF2F2D7206D00D3F6964E1F72D61"
+    },
+    {
+      "source": "NexusServiceHost.exe",
+      "target": "service/NexusServiceHost.exe",
+      "size": 9300128,
+      "sha256": "405F7D0432033DD3DF5D994ADE77A3774EEBC5F4258E825E7BEBD52941AD39F2"
+    },
+    {
+      "source": "NexusUpdateWorker.exe",
+      "target": "updater/NexusUpdateWorker.exe",
+      "size": 9358263,
+      "sha256": "D3189EE491252631F47693251EC66935819D91F8FD612DCC812ADAE6959F7991"
+    }
+  ],
+  "signature_algorithm": "Ed25519",
+  "key_id": "nexus-test-2026-01",
+  "created_at": "2026-08-22T08:27:42+00:00",
+  "signature": "LdguXDd4DXWKXn7GLOD9AgGHRLgFkCMotYeZIis2QR7id/HMfhoL9rCu9bhj+GmsOj78OSj+ygqqAnw4u35uAw=="
+}
