@@ -1,13 +1,13 @@
 {
   "product": "NEXUS_ADMIN_BRIDGE_CHANNEL",
   "environment": "TEST",
-  "bridge_protocol": "20260824-001",
-  "manifest_url": "https://raw.githubusercontent.com/sheherryarafr123-ui/nexus-update-feed/main/test/admin-bridge/20260824-001/bridge-manifest.json",
-  "manifest_signature_url": "https://raw.githubusercontent.com/sheherryarafr123-ui/nexus-update-feed/main/test/admin-bridge/20260824-001/bridge-manifest.sig",
+  "bridge_protocol": "20260824-003",
+  "manifest_url": "https://raw.githubusercontent.com/sheherryarafr123-ui/nexus-update-feed/main/test/admin-bridge/20260824-003/bridge-manifest.json",
+  "manifest_signature_url": "https://raw.githubusercontent.com/sheherryarafr123-ui/nexus-update-feed/main/test/admin-bridge/20260824-003/bridge-manifest.sig",
   "bridge_executable_url": "https://raw.githubusercontent.com/sheherryarafr123-ui/nexus-update-feed/main/test/admin-bridge/NexusAdminBridge.exe",
-  "bridge_executable_sha256": "BF9B5581FFD4FCF1A6338D8C2F436CC83390DC6B5FB7C31F7A99DA877C071650",
+  "bridge_executable_sha256": "307FD9A9C9FD83E4EEFC80E24F63ACC178B6424EB425185BD62098BFF0B9E52C",
   "signature_algorithm": "Ed25519",
   "key_id": "nexus-test-2026-01",
-  "created_at": "2026-08-24T10:58:00+00:00",
-  "signature": "nWTl92eX8X5g0o6c8G562h3ijH5XyyFNRmbJc1+xw5IgIQN9DF01YhZjQhEA06/cIyQI0NKZQxVAxR7a7UCUCg=="
+  "created_at": "2026-08-25T09:26:00+00:00",
+  "signature": "yxcxWYZivBrOu/7m46f2bvY6nWk5pr+PnGUvKBrIAVgsKAL+80GxD7a5MA/W1GyswN31JHVgQVQ/N8cnN+8DCA=="
 }
